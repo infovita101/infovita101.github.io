@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://infovita101.github.io
+title: infovita101
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
